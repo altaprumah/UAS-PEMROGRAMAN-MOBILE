@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Info Kesehatan</string>
+    <string name="placeholder_search">search</string>
+    <string name="ab1_inversions">inversions\n</string>
+    <string name="fc2_nature_meditations">meditations\n</string>
+    <string name="ab2_quick_yoga">quick yoga</string>
+    <string name="ab3_stretching">stretching</string>
+    <string name="ab4_tabata">tabata</string>
+    <string name="ab5_hiit">hiit</string>
+    <string name="ab6_pre_natal_yoga">pre natal yoga</string>
+    <string name="fc1_short_mantras">short mantras</string>
+    <string name="fc3_stress_and_anxiety">stress and anxiety</string>
+    <string name="fc4_self_massage">self massage</string>
+    <string name="fc5_overwhelmed">overwhelmed</string>
+    <string name="fc6_nightly_wind_down">nightly wind down</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="bottom_navigation_home">bottom navigation home</string>
+    <string name="bottom_navigation_profile">bottom navigation profile</string>
+    <string name="sungai_colorado">sungai colorado</string>
+    <string name="sungai_danube">sungan danube</string>
+    <string name="sungai_seine">sungai ganges</string>
+    <string name="sungai_mendidih_amazon">sungai mendidih amazon</string>
+    <string name="sungai_ganges">sungai ganges</string>
+    <string name="sungai_zambezi">sungai zambesi</string>
+    <string name="canyon">canyon</string>
+    <string name="culture">culture</string>
+    <string name="biodiversity">spirituality</string>
+    <string name="romance">romance</string>
+    <string name="victoria">victoria</string>
+    <string name="spirituality">spirituality</string>
+    <string name="rivers">Rivers</string>
+    <string name="about_rivers">About Rivers</string>
+</resources>
